@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Anasse "you can call me anassy" 👋
 
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate on JavaScript projects
+- ⚡ Fun fact: I ride Horses and I play Guitar 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-laarabi&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559&amp;count_private=true" alt="a-laarabi" />
 <!--
 **a-laarabi/a-laarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
