@@ -1,5 +1,5 @@
 # Hi there, I'm Anasse 👋
-### you can call me anassy
+### You can call me Anassy 😄
 
 <br />
 
