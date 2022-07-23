@@ -2,6 +2,8 @@
 ### You can call me Anassy 😄
 
 <br />
+Currently, I'm learning remote software development from [Microverse](https://www.microverse.org/?grsf=1rq5du) . I spend most of my time learning different frameworks and technologies related to web development.
+<br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!%F0%9F%A4%97)](https://git.io/typing-svg)
 
