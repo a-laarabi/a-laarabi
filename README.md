@@ -9,9 +9,9 @@
 
 <br />
 
-<p>Currently, I'm learning remote software development in <a href ="(https://www.microverse.org/?grsf=1rq5du"> Microverse </a> . I spend most of my time learning different frameworks and technologies related to web development.</p>
+<p>Currently, I'm learning remote software development in [Microverse] (https://www.microverse.org/?grsf=1rq5du) . I spend most of my time learning different frameworks and technologies related to web development.</p>
 
-[Microverse](https://www.microverse.org/?grsf=1rq5du)
+### [Microverse](https://www.microverse.org/?grsf=1rq5du)
 
 <br />
 
