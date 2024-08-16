@@ -4,7 +4,7 @@
 <br />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!%F0%9F%A4%97)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!%F0%9F%A4%97)
 
 
 <br />
@@ -72,4 +72,4 @@
 <br />
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!%F0%9F%98%84)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!%F0%9F%98%84)
